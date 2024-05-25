@@ -1,0 +1,32 @@
+/* .container .box1{
+    margin: 30px;
+    width: 200px;
+    float: left;
+    padding: 10px;
+}
+.box1 img{
+     width: 400px;
+     height: 400px;
+} */
+.containerflex{
+    display: flex;
+}
+.box1 img{
+    width: 300px;
+    height: 300px;
+}
+.box1{
+    margin: 10px;
+}
+.containerflexdirection{
+    display: flex;
+    flex-direction: row-reverse;
+}
+ .containerwrapper{
+    
+    flex-wrap: wrap;
+} 
+.justifycontent{
+    display: flex;
+    justify-content:center;
+} 

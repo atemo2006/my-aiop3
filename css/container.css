@@ -1,0 +1,25 @@
+#container{
+    width: 80%;
+    height: 1200px;
+    
+    margin: auto;
+}
+header img{
+    height: 300px;
+    width: 100%;
+    
+}
+nav h1{
+    height: 50px;
+    width: 100%;
+    
+}
+.body img{
+    height: 700px;
+    width: 100%;
+    
+}
+footer p{
+    height: 150px;
+    width: 100%;
+}

@@ -1,0 +1,12 @@
+/* h1{
+    float: left;
+    width: 50%;
+}
+p{
+    float: left;
+    width: 50%;
+} */
+.container{
+    display: flex;
+    
+}

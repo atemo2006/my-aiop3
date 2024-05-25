@@ -1,0 +1,25 @@
+#container{
+    width: 90%;
+    height: 1200px;
+    background-color: aqua;
+    margin: auto;
+}
+header{
+    height: 300px;
+    width: 100%;
+    background-color: red;
+}
+nav{
+    height: 50px;
+    width: 100%;
+    background-color: green;
+}
+.body{
+    height: 700px;
+    width: 100%;
+    background-color: blueviolet;
+}
+footer{
+    height: 150px;
+    width: 100%;
+}

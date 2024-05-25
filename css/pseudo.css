@@ -1,0 +1,143 @@
+.layout{
+    background-color: red;
+}
+.deer{
+    border: 5px solid yellow;
+
+}
+.deer:hover{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.text{
+    border: 5px solid magenta;
+    color: green;
+}
+.dee{
+    color: yellow;
+    text-align: left;
+    background-color: indigo;
+}
+.dee:hover{
+color: palevioletred;
+text-align: center;
+background-color: blue;
+}
+.one {
+    color: pink;
+    text-align: left;
+    background-color: greenyellow;
+}
+.one:hover{
+    color: aqua;
+    text-align: center;
+    background-color: steelblue;
+}
+.two{
+    color: orange;
+    text-align: left;
+    background-color: chartreuse;
+}
+.two:hover{
+        color: aqua;
+        text-align: center;
+        background-color: deeppink;
+}
+.three{
+    color: aquamarine;
+    text-align: left;
+    background-color: green;
+}
+.three:hover{
+    color: green;
+    text-align: center;
+    background-color: crimson;
+}
+.head{
+    color: cadetblue;
+    background-color: cornsilk;
+    text-align: left;
+}
+.text2::selection{
+    color: rgb(128, 0, 30);
+    background-color: chartreuse;
+    text-align: center;
+    
+}
+.text3::selection{
+    color: rgb(132, 30, 210);
+    background-color: rgb(216, 237, 100);
+    text-align: center;
+}
+/*  
+input[type="text"]{
+    width: 50%;
+    height: 50px;
+    border-radius: 50px;
+}
+input[type="email"]{
+    width: 50%;
+    height: 50px;
+    border-radius: 50px;
+}
+input[type="password"]{
+    width: 50%;
+    height: 50px;
+    border-radius: 50px;
+}
+*/
+.name{
+    width: 50%;
+    height: 50px;
+    border: 5px solid olive;
+    border-radius: 50px;
+    padding: 20px;
+    
+}
+.dub{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    border: 5px solid silver;
+}
+.sub{
+    background-color: green;
+    cursor: pointer;
+}
+
+.name:focus{
+    
+    color: blue;
+    background-color: pink;
+}
+::first-line{
+    color: palegreen;
+    background-color: darkgoldenrod;
+}
+::first-letter{
+    color:orange ;
+    background-color: cornflowerblue;
+}
+h1::before{
+    content: 'worker';
+    color: rosybrown;
+}
+h1::after{
+    content: 'worker';
+    color: greenyellow;
+}
+h1::before{
+    content:url(/images/nature-bird-flying-red.jpg);
+}
+h1::after{
+    content:url(../images/nature-bird-flying-red.jpg);
+}
+
+
+
+
+
+
+
+

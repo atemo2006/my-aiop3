@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+@media only screen and (max-width:500px){
+    body{
+        background-color: brown;
+    }
+}
+@media only screen and (max-width:300px){
+    body{
+        background-color:cadetblue;
+    }
+    h1{
+         visibility: hidden; 
+         /* display: none;  */
+    }
+}

@@ -1,0 +1,44 @@
+:root{
+    --primary:rgb(219,58,58);
+    --heading:40px;
+    --head:green;
+    --imagestyle: 50%;
+    
+}
+.head1{
+    font-size: var(--heading);
+    background-color: var(--primary);
+    color: var(--head);
+}
+.head2{
+    font-size: var(--heading);
+    background-color: var(--primary);
+    color: var(--head);
+}
+.head3{
+    font-size: var(--heading);
+    background-color: var(--primary);
+    color: var(--head);
+}
+.head4{
+    font-size: var(--heading);
+    background-color: var(--primary);
+    color: var(--head);
+}
+.boat1{
+    border-radius: var(--imagestyle);
+    border: 5px solid green;
+}
+.boat2{
+    border-radius: var(--imagestyle);
+    border: 5px solid yellow;
+}
+.boat3{
+    border-radius: var(--imagestyle);
+    border: 5px solid blue;
+}
+.boat4{
+    border-radius: var(--imagestyle);
+    border: 5px solid lightslategrey;
+}
+

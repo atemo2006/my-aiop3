@@ -1,0 +1,73 @@
+.translate{
+    width: 350px;
+    height: 150px;
+    background-color: pink;
+    border: 2px solid;
+    transform: translate(50px,100px);
+    margin-bottom: 220px;
+}
+.rotate{
+    width: 350px;
+    height: 150px;
+    background-color: pink;
+    border: 2px solid;
+    transform: rotate(50deg);
+    margin-bottom: 220px;
+}
+.negative-rotate{
+    width: 350px;
+    height: 150px;
+    background-color: pink;
+    border: 2px solid;
+    transform:rotate(-50deg);
+    margin-bottom: 220px;
+}
+.scale-rotate{
+    width: 350px;
+    height: 150px;
+    background-color: pink;
+    border: 2px solid;
+    transform: scale(1,2);
+    margin-bottom: 220px;
+}
+.scale-y{
+    width: 350px;
+    height: 150px;
+    background-color: pink;
+    border: 2px solid;
+    transform: scaleY(3);
+    margin-bottom: 220px;
+}
+.scale-x{
+    width: 350px;
+    height: 150px;
+    background-color: pink;
+    border: 2px solid;
+    transform: scaleX(2);
+    margin-bottom: 200px;
+}
+.skew-x{
+    width: 350px;
+    height: 150px;
+    background-color: pink;
+    border: 2px solid;
+    transform: skewy(50deg);
+    margin-bottom: 220px;
+}
+.skew-y{
+    width: 350px;
+    height: 150px;
+    background-color: pink;
+    border: 2px solid;
+    transform: skewx(50deg);
+    margin-bottom: 200px;
+}
+.skew{
+    width: 350px;
+    height: 150px;
+    background-color: pink;
+    border: 2px solid;
+    transform: skewx(30deg,70deg);
+    margin-bottom: 200px;
+}
+

@@ -1,0 +1,33 @@
+html{
+    background-color: coral;
+}
+img{
+    width: 100%;
+    border-radius:20px 20px 0px 0;
+}
+.container{
+     margin: 0 auto; 
+     width: 100%; 
+     border-radius: 20px 20px 30px;
+}
+.gallery{
+    width: 15%;
+    margin: 2%;
+    border-radius: 20px 30px 40px ;
+    background-color: azure;
+    float: left;
+    border: 2px solid black;
+    box-shadow: 2px 3px 5px white;
+}
+.gallery:hover{
+    opacity: 0.6;
+    background-color: yellow;
+    box-shadow: 3px 5px 10px rgb(29, 64, 193);
+}
+.explanations{
+    padding: 10px;
+    color: rgb(34, 0, 128);
+}
+.pagination a{
+    float: left;
+}

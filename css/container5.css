@@ -1,0 +1,195 @@
+#container{
+    width: 90%;
+    height: 1800px;
+    margin: 0 auto;
+    background-position: center;
+
+}
+header img{
+    width: 100%;
+    height: 200px;
+    
+}
+nav img{
+    width: 100%;
+    height: 150px;
+    
+}
+.body{
+    width: 100%;
+    height: 1300px;
+    
+}
+.box1{
+    width: 25%;
+    height: 1300px;
+    
+    float: left;
+}
+.minibox1{
+    width: 100%;
+    height: 430px;
+    
+}
+.mini1{
+    width: 50%;
+    height: 430px;
+    
+    float: left;
+}
+.mini2{
+    width: 50%;
+    height: 430px;
+    
+    float: left;
+}
+.m1{
+    width: 100%;
+    height: 143px;
+
+}
+.m2{
+    width: 100%;
+    height: 143px;
+    
+}
+.mm1{
+    width: 50%;
+    height: 143px;
+    
+    float: left;
+}
+.mm2{
+    width: 50%;
+    height: 143px;
+    
+    float: left;
+}
+.m3{
+    width: 100%;
+    height: 144px;
+    
+}
+.minibox2{
+    width: 100%;
+    height: 430px;
+}
+.inbox1{
+    width: 50%;
+    height: 430px;
+    
+    float: left;
+}
+.inbox2{
+    width: 50%;
+    height: 430px;
+    
+    float: left;
+}
+.ibox1{
+    width: 100%;
+    height: 143px;
+    
+}
+.ibox2{
+    width: 100%;
+    height: 143px;
+    
+}
+.ibox3{
+    width: 100%;
+    height: 144px;
+    
+}
+.minibox3{
+    width: 100%;
+    height: 440px;
+    
+}
+.box2 img{
+    width: 50%;
+    height: 1300px;
+    
+    float: left;
+}
+.box3{
+    width: 25%;
+    height: 1300px;
+    
+    float: left;
+}
+.subbox1{
+    width: 100%;
+    height: 430px;
+    
+}
+.sub1{
+    width: 50%;
+    height: 430px;
+    
+    float: left;
+}
+.sub2{
+    width: 50%;
+    height: 430px;
+    
+    float: left;
+}
+.s1{
+    width: 100%;
+    height: 143px;
+    
+}
+.s2{
+    width: 100%;
+    height: 143px;
+    
+}
+.s3{
+    width: 100%;
+    height: 144px;
+    
+}
+.subbox2{
+    width: 100%;
+    height: 430px;
+    
+}
+.subbox3{
+    width: 100%;
+    height: 440px;
+    
+}
+.ox1{
+    width: 50%;
+    height: 440px;
+    
+    float: left;
+}
+.sb1{
+    width: 100%;
+    height: 140px;
+
+}
+.sb2{
+    width: 100%;
+    height: 150px;
+    
+}
+.sb3{
+    width: 100%;
+    height: 150px;
+
+}
+.ox2{
+    width: 50%;
+    height: 440px;
+    
+    float: left;
+}
+footer{
+    width: 100%;
+    height: 150px;
+    
+    float: left;
+}

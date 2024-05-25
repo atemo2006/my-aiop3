@@ -1,0 +1,38 @@
+body{
+    background-image: url(/images/istockphoto-134606980-612x612.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sub{
+    width: 40%;
+    height: 5px;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: burlywood;
+   margin-bottom: 30px; 
+}
+.text{
+    width: 100%;
+    margin-left: 30%;
+}
+.dub{
+   width: 40%;
+   height: 300px;
+   border-radius: 5px;
+   background-color: darkgreen; 
+}
+.bud{
+    width: 40%;
+    height: 25px;
+    border-radius: 5px;
+    background-color:darkslategrey; 
+    cursor: pointer;
+    color: white; 
+}
+h1{
+    text-align: center;
+    color: rgb(215, 205, 205);
+    
+}

@@ -1,0 +1,28 @@
+.wolves{
+    text-shadow: 2px 2px;
+}
+.husks{
+    text-shadow: 2px 2px palevioletred;
+
+}
+.boar{
+    text-shadow: 2px 2px 4px orange;
+}
+.text{
+    text-shadow: 2px 2px ;
+}
+.word{
+    text-shadow: 2px 2px yellow;
+}
+.spaces{
+    text-shadow: 2px 2px 4px crimson;
+}
+.wolverine{
+    box-shadow: 5px 6px ;
+}
+.evolvedmammoth{
+    box-shadow: 5px 7px red;
+}
+.bearcub{
+    box-shadow:  0px 8px 12px 4px rgba(235, 28, 28, 0.8);
+}

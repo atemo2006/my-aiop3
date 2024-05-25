@@ -1,0 +1,30 @@
+.colorful{
+    width: 100%;
+    height: 300px;
+}
+.{
+    width: 100%;
+    height: 300px;
+}
+  .color.sub{
+    box-shadow: 0px 5px 10px 0 
+    rgba(0,0,0,0.5);
+    width: 20%;
+    display: inline-block;
+    margin: 2%;
+    border-radius: 3%;
+}
+h1{
+    text-align: center;
+}
+.sub{
+    width: 100%;
+    height: 300px;
+    border-radius: 3% 3% 0 0;
+}
+h1{
+    text-align: center;
+}
+.team:checked{
+    box-shadow: 0px 10px 30px 0;
+}

@@ -1,0 +1,183 @@
+#container{
+    width: 90%;
+    height: 1800px;
+    margin: 0 auto;
+}
+header img{
+    width: 100%;
+    height: 200px;
+}
+nav img{
+    width: 100%;
+    height: 150px;
+    background-color: crimson;
+}
+.body{
+    width: 100%;
+    height: 1300px;
+}
+.box1{
+    width: 25%;
+    height: 1300px;
+    float: left;
+}
+.dubbox1{
+    width: 100%;
+    height: 430px;
+}
+.bbox1{
+    width: 50%;
+    height: 430px;
+    float: left;
+}
+.bbox2{
+    width: 50%;
+    height: 430px;
+    background-color: indianred;
+    float: left;
+}
+.dubminibox1{
+    width: 100%;
+    height: 143px;
+    
+}
+.dubminibox2{
+    width: 100%;
+    height: 143px;
+    background-color: azure;
+}
+.mini1{
+    width: 50%;
+    height: 143px;
+    
+}
+.mini2{
+    width: 50%;
+    height: 143px;
+    
+}
+.dubminibox3 p{
+    width: 100%;
+    height: 143px;
+    
+}
+.dubbox2{
+    width: 100%;
+    height: 430px;
+}
+.dbox1{
+    width: 50%;
+    height: 430px;
+    background-color: aqua;
+    float: left;
+}
+.dbox2{
+    width: 50%;
+    height: 430px;
+    float: left;
+
+}
+.ox1{
+    width: 100%;
+    height: 143px;
+    background-color: darkgoldenrod;
+}
+.ox2{
+    width: 100%;
+    height: 143px;
+    background-color: pink;
+}
+.ox3{
+    width: 100%;
+    height: 143px;
+    background-color: gold;
+}
+.dubbox3{
+    width: 100%;
+    height: 440px;
+    background-color: forestgreen;
+}
+.box2 img{
+    width: 50%;
+    height: 1300px;
+    
+    float: left;
+}
+.box3{
+    width: 25%;
+    height: 1300px;
+    float: left;
+}
+.subbox1{
+    width: 100%;
+    height: 430px;
+}
+.ssbox1{
+    width: 50%;
+    height: 430px;
+    background-color: blueviolet;
+    float: left;
+}
+.bx1{
+    width: 100%;
+    height: 143px;
+    background-color: bisque;
+}
+.bx2{
+    width: 100%;
+    height: 143px;
+    background-color: olivedrab;
+}
+.bx3{
+    width: 100%;
+    height: 143px;
+    background-color: orchid;
+}
+.ssbox2{
+    width: 50%;
+    height: 430px;
+    background-color: darkolivegreen;
+    float: left;
+}
+.subbox2{
+    width: 100%;
+    height: 430px;
+    background-color: black;
+}
+.subbox3{
+    width: 100%;
+    height: 440px;
+    
+}
+.sbox1{
+    width: 50%;
+    height: 440px;
+    background-color: palevioletred;
+    float: left;
+}
+.sx1{
+    width: 100%;
+    height: 145px;
+    background-color: gray;
+}
+.sx2{
+    width: 100%;
+    height: 150px;
+    background-color: beige;
+}
+.sx3{
+    width: 100%;
+    height: 145px;
+    background-color: plum;
+}
+.sbox2{
+    width: 50%;
+    height: 440px;
+    background-color: fuchsia;
+    float: left;
+}
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+}

@@ -1,0 +1,50 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
+body{
+    background-image: url(/images/free-photo-of-lion-on-tree-log.jpeg);
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover; 
+}
+h1{
+    width: 50%;
+    text-align: center;
+    color: silver;
+    background-color: darkslategray;
+    margin: 50px;
+    margin-left: 20%;
+    border-radius: 10px;
+}
+.sub{
+    width: 50%;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: green;
+    padding-left: 10px;
+    color: white;
+}
+form{
+    margin-left: 30%;
+}
+.dub{
+    width: 50%;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    background-color: chartreuse;
+}
+.bud{
+    width: 50%;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    color: black;
+    cursor: pointer;
+}

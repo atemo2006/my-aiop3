@@ -1,0 +1,40 @@
+:root{
+    --heading-1-bg-color:crimson;
+    
+}
+.head1{
+    font-size: 30px;
+    background-color: var(--heading-1-bg-color);
+    color: pink;
+}
+.head2{
+    font-size: 30px;
+    background-color: var(--heading-1-bg-color);
+    color: olive;
+}
+.head3{
+    font-size: 30px;
+    background-color: var(--heading-1-bg-color);
+    color: purple;
+}
+.head4{
+    font-size: 30px;
+    background-color: var(--heading-1-bg-color);
+    color: orange;
+}
+.boat1{
+    border-radius: 50%;
+    border: 5px solid green;
+}
+.boat2{
+    border-radius: 50%;
+    border: 5px solid yellow;
+}
+.boat3{
+    border-radius: 50%;
+    border: 5px solid blue;
+}
+.boat4{
+    border-radius: 50%;
+    border: 5px solid lightslategrey;
+}

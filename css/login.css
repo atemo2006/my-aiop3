@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+}
+
+body{
+    background-image: url(/images/pexels-photo-5473029.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    width: 50%;
+    text-align: center;
+    color: silver;
+    background-color:darkblue;
+    margin: 50px;
+    margin-left: 20%;
+    border-radius: 20px;
+}
+.sub{
+    width: 50%;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: none;
+    background-color:black;
+    padding-left: 10px;
+     color: white; 
+}
+form{
+    margin-left: 25%;
+    color: pink;
+    
+}
+.bud{
+    width: 50%;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding: 15px;
+    border: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: steelblue;
+    cursor: pointer;
+}
+.stud{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 35%;
+} 
